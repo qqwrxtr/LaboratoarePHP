@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.mainblock{
+    width: 700px;
+    height: 500px;
+    background-color: #68FE9A;
+}
+
+.title{
+    text-align: center;
+}
+
+.align{
+    display: flex;
+    margin: 25px 50px;
+}
+
+.txt{
+    width: 200px;
+}
+
+.checkbox1{
+    display: flex;
+    width: 350px;
+    justify-content: space-between;
+}
+
+.df{
+    display: flex;
+    width: 150px;
+}
+
+.df label{
+    margin-left: 10px;
+}
+
+.checkbox{
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+}
+
+.submit button{
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}

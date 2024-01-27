@@ -1,0 +1,14 @@
+Nume: 
+Prenume: 
+Pizza:   
+Sos: 1
+Extra:  
+Instructiuni: 
+
+Nume: Teodor 
+Prenume: Ghirba
+Pizza: Peperoni  
+Sos: 3
+Extra: Extra Cheese 
+Instructiuni: Block 7 apartament 99 de cumatre
+
